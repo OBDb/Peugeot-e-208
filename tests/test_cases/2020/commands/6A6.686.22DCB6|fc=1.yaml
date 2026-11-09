@@ -1,0 +1,5 @@
+command_id: 6A6.686.22DCB6|fc=1
+test_cases:
+- expected_values:
+    208_ELEC_MACHINE_TQ: 34.9
+  response: 6860562DCB6015D

@@ -1,0 +1,5 @@
+command_id: 6A2.682.22D880|fc=1
+test_cases:
+- expected_values:
+    208_DRIVE_MOTOR_TQ_DES: 3.23
+  response: 6820562D8800143
