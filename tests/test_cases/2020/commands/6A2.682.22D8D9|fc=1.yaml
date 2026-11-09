@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     208_DRIVE_MOTOR_POWER: 6800
   response: 6820562D8D90044
+- expected_values:
+    208_DRIVE_MOTOR_POWER: -6000
+  response: 6820562D8D9FFC4

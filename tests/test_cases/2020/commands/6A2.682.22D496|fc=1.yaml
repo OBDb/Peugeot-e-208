@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     208_SERVICE_BAT_T: 13
   response: 6820562D496001A
+- expected_values:
+    208_SERVICE_BAT_T: 14
+  response: 6820562D496001C

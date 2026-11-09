@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     208_INVERTER_T_ESTIMATED: 29.82812
   response: 6860562DC6A0775
+- expected_values:
+    208_INVERTER_T_ESTIMATED: 31.90625
+  response: 6860562DC6A07FA

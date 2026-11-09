@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     208_BAT_INSULATION_RES: 27549
   response: 6940762D47A00006B9D
+- expected_values:
+    208_BAT_INSULATION_RES: 52166
+  response: 6940762D47A0000CBC6

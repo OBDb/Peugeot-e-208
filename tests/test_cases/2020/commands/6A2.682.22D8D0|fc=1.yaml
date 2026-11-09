@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     208_DRIVE_MOTOR_TQ_ACT: 16
   response: 6820562D8D000A0
+- expected_values:
+    208_DRIVE_MOTOR_TQ_ACT: -49.8
+  response: 6820562D8D0FE0E

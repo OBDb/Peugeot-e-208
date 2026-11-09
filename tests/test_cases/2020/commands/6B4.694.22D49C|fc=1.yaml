@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     208_ODO: 86637
   response: 6940762D49C0549B400
+- expected_values:
+    208_ODO: 86642
+  response: 6940762D49C0549C800

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     208_ELEC_MACHINE_TQ: 34.9
   response: 6860562DCB6015D
+- expected_values:
+    208_ELEC_MACHINE_TQ: -150.6
+  response: 6860562DCB6FA1E
