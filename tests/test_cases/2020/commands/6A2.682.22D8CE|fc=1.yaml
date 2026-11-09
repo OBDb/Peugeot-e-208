@@ -1,5 +1,8 @@
 command_id: 6A2.682.22D8CE|fc=1
 test_cases:
 - expected_values:
+    208_DC_DC_CONV_T: 19
+  response: 6820562D8CE0013
+- expected_values:
     208_DC_DC_CONV_T: 26
   response: 6820562D8CE001A

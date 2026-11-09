@@ -1,5 +1,8 @@
 command_id: 6B4.694.22D446|fc=1
 test_cases:
 - expected_values:
+    208_BAT_MIN_UNIT_T_NUMBER: 37
+  response: 6940462D44624
+- expected_values:
     208_BAT_MIN_UNIT_T_NUMBER: 46
   response: 6940462D4462D
