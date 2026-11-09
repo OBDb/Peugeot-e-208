@@ -1,0 +1,8 @@
+command_id: 6A6.686.22D49C|fc=1
+test_cases:
+- expected_values:
+    208_ODO_6A6: 32589
+  response: 6860762D49C00007F4D
+- expected_values:
+    208_ODO_6A6: 4294967295
+  response: 6860762D49CFFFFFFFF

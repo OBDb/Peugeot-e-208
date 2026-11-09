@@ -1,0 +1,11 @@
+command_id: 6A2.682.22D402|fc=1
+test_cases:
+- expected_values:
+    208_VSS: 0
+  response: 6820562D4020000
+- expected_values:
+    208_VSS: 43.875
+  response: 6820562D40215F0
+- expected_values:
+    208_VSS: 84.58594
+  response: 6820562D4022A4B

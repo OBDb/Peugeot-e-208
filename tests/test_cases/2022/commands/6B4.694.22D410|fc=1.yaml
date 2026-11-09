@@ -1,0 +1,14 @@
+command_id: 6B4.694.22D410|fc=1
+test_cases:
+- expected_values:
+    208_HVBAT_SOC: 91.875
+  response: 6940562D410B7C0
+- expected_values:
+    208_HVBAT_SOC: 92.48633
+  response: 6940562D410B8F9
+- expected_values:
+    208_HVBAT_SOC: 93.50195
+  response: 6940562D410BB01
+- expected_values:
+    208_HVBAT_SOC: 94.60938
+  response: 6940562D410BD38

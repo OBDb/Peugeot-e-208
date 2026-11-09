@@ -1,0 +1,11 @@
+command_id: 6A2.682.22D8D0|fc=1
+test_cases:
+- expected_values:
+    208_DRIVE_MOTOR_TQ_ACT: 0
+  response: 6820562D8D00000
+- expected_values:
+    208_DRIVE_MOTOR_TQ_ACT: -25.9
+  response: 6820562D8D0FEFD
+- expected_values:
+    208_DRIVE_MOTOR_TQ_ACT: -19.9
+  response: 6820562D8D0FF39
