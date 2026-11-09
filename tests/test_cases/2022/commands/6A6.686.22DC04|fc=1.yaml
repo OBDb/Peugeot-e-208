@@ -1,0 +1,11 @@
+command_id: 6A6.686.22DC04|fc=1
+test_cases:
+- expected_values:
+    208_INVERTER_T_CMD: 22.0625
+  response: 6860562DC040584
+- expected_values:
+    208_INVERTER_T_CMD: 23.92188
+  response: 6860562DC0405FB
+- expected_values:
+    208_INVERTER_T_CMD: 28
+  response: 6860562DC040700

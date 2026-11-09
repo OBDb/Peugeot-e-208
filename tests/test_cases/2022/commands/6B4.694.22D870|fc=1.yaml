@@ -1,0 +1,8 @@
+command_id: 6B4.694.22D870|fc=1
+test_cases:
+- expected_values:
+    208_HVBAT_MAX_VOLT: 3988
+  response: 6940562D8700F94
+- expected_values:
+    208_HVBAT_MAX_VOLT: 4067
+  response: 6940562D8700FE3

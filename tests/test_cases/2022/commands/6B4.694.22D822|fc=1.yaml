@@ -1,0 +1,20 @@
+command_id: 6B4.694.22D822|fc=1
+test_cases:
+- expected_values:
+    208_SERVICE_CELL_V: 14.21
+  response: 6940562D8223782
+- expected_values:
+    208_SERVICE_CELL_V: 14.223
+  response: 6940562D822378F
+- expected_values:
+    208_SERVICE_CELL_V: 14.237
+  response: 6940562D822379D
+- expected_values:
+    208_SERVICE_CELL_V: 14.25
+  response: 6940562D82237AA
+- expected_values:
+    208_SERVICE_CELL_V: 14.263
+  response: 6940562D82237B7
+- expected_values:
+    208_SERVICE_CELL_V: 14.277
+  response: 6940562D82237C5

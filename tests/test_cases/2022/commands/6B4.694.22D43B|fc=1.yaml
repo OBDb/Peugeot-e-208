@@ -1,0 +1,11 @@
+command_id: 6B4.694.22D43B|fc=1
+test_cases:
+- expected_values:
+    208_HIGHEST_V_CELL: 5
+  response: 6940462D43B04
+- expected_values:
+    208_HIGHEST_V_CELL: 9
+  response: 6940462D43B08
+- expected_values:
+    208_HIGHEST_V_CELL: 10
+  response: 6940462D43B09

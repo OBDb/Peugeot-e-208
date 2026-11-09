@@ -1,0 +1,11 @@
+command_id: 6A6.686.22DC00|fc=1
+test_cases:
+- expected_values:
+    208_MOTOR_SPD: 0
+  response: 6860562DC000000
+- expected_values:
+    208_MOTOR_SPD: 2806
+  response: 6860562DC000AF6
+- expected_values:
+    208_MOTOR_SPD: 7140
+  response: 6860562DC001BE4

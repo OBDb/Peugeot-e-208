@@ -1,0 +1,11 @@
+command_id: 6A2.682.22D8FB|fc=1
+test_cases:
+- expected_values:
+    208_ECT: 21.2
+  response: 6820562D8FB00D4
+- expected_values:
+    208_ECT: 25.5
+  response: 6820562D8FB00FF
+- expected_values:
+    208_ECT: 25.8
+  response: 6820562D8FB0102

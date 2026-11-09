@@ -1,0 +1,8 @@
+command_id: 6B4.694.22D877|fc=1
+test_cases:
+- expected_values:
+    208_BAT_AVG_T: 19
+  response: 6940462D8773B
+- expected_values:
+    208_BAT_AVG_T: 20
+  response: 6940462D8773C
