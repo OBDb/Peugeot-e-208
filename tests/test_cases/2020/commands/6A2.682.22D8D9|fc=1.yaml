@@ -1,0 +1,5 @@
+command_id: 6A2.682.22D8D9|fc=1
+test_cases:
+- expected_values:
+    208_DRIVE_MOTOR_POWER: 6800
+  response: 6820562D8D90044

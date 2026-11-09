@@ -1,0 +1,5 @@
+command_id: 6A6.686.22DC6A|fc=1
+test_cases:
+- expected_values:
+    208_INVERTER_T_ESTIMATED: 29.82812
+  response: 6860562DC6A0775

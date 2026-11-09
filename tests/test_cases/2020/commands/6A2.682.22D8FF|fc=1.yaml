@@ -1,0 +1,5 @@
+command_id: 6A2.682.22D8FF|fc=1
+test_cases:
+- expected_values:
+    208_AC_HIGH_SIDE_P: 8.07
+  response: 6820562D8FF0327

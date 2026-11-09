@@ -1,0 +1,5 @@
+command_id: 6A6.686.22DC69|fc=1
+test_cases:
+- expected_values:
+    208_ELEC_MACHINE_TQ_REDUCTION: 5.875
+  response: 6860562DC69005E
